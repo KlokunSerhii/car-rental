@@ -1,10 +1,16 @@
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import Welcome from "../../components/Welcome";
+import styles from "./Home.module.css";
 
 function Home() {
   return (
-    <Container>
-      <Title title='Home'/>
+    <Container className={styles.Container}>
+      <Title
+        title="Hello, here you can choose a car for your trip."
+        className={styles.Title}
+      />
+      <Welcome />
     </Container>
   );
 }

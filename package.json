@@ -2,7 +2,7 @@
   "name": "car-rental",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://klokunserhii.github.io/car-rental",
+  "homepage": "https://klokunserhii.github.io/car-rental/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

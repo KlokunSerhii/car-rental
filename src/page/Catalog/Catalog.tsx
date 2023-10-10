@@ -3,13 +3,13 @@ import Container from "../../components/Container";
 import FilterForm from "../../components/FilterForm";
 import Title from "../../components/Title";
 
-function Catalog() {
+const Catalog = () => {
   return (
     <Container>
-      <Title title='Catalog'/>
-      <FilterForm/>
-      <CatalogList/>
+      <Title title="Catalog" />
+      <FilterForm />
+      <CatalogList cars={[]} />
     </Container>
   );
-}
+};
 export default Catalog;
