@@ -1,6 +1,7 @@
-function FavoritseList () {
-    return (
-        <div>FavoritseList</div>
-    )
-  }
-  export default FavoritseList;
+
+function FavoritseList() {
+  return (
+      <div>FavoritseList</div>
+  );
+}
+export default FavoritseList;

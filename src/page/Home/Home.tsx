@@ -1,6 +1,11 @@
-function Home () {
-    return (
-        <div>Home</div>
-    )
-  }
-  export default Home;
+import Container from "../../components/Container";
+import Title from "../../components/Title";
+
+function Home() {
+  return (
+    <Container>
+      <Title title='Home'/>
+    </Container>
+  );
+}
+export default Home;
