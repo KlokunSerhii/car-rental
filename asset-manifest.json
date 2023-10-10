@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/car-rental/static/css/main.b4bdaa22.css",
-    "main.js": "/car-rental/static/js/main.5dc1235e.js",
+    "main.css": "/car-rental/static/css/main.927d0112.css",
+    "main.js": "/car-rental/static/js/main.5166c448.js",
+    "static/media/models-website-q8-etr.jpg": "/car-rental/static/media/models-website-q8-etr.a46a21257623589eec2a.jpg",
     "index.html": "/car-rental/index.html",
-    "main.b4bdaa22.css.map": "/car-rental/static/css/main.b4bdaa22.css.map",
-    "main.5dc1235e.js.map": "/car-rental/static/js/main.5dc1235e.js.map"
+    "main.927d0112.css.map": "/car-rental/static/css/main.927d0112.css.map",
+    "main.5166c448.js.map": "/car-rental/static/js/main.5166c448.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4bdaa22.css",
-    "static/js/main.5dc1235e.js"
+    "static/css/main.927d0112.css",
+    "static/js/main.5166c448.js"
   ]
 }
